@@ -1,7 +1,7 @@
 # Enviroment
-./.idea
-./.vscode
+.idea
+.vscode
 
 #
-./dist
+dist
 ./node_modules
